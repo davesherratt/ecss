@@ -1,0 +1,30 @@
+$baseFontSize: 100% !default;
+
+$baseLineHeight: 150%;
+$emBase: 16px !default;
+
+
+$bodyBg: #fff;
+$bodyFontColor: red;
+$bodyFontFamily: "Lato", sans-serif;
+$bodyFontWeight: normal;
+$bodyFontStyle: normal;
+$fontSmoothing: antialiased;
+
+$mainColor: yellow;
+
+/* Forms */
+
+$inputBorderWidth: 1px !default;
+$inputBorderStyle: solid !default;
+$inputBorderColor: #ccc !default;
+$labelFontWeight: 500 !default;
+$labelFontColor: lighten(#000, 30%) !default;
+$labelBtmMargin: 3px !default;
+$inputBgColor: #fff !default;
+$inputFontColor: $mainColor !default;
+$inputFontSize: $baseFontSize !default;
+$formSpacing: 10px !default;
+$inputFocusBgColor: darken(#fff, 2%) !default;
+$inputBorderColor: darken(#fff, 20%) !default;
+$inputFocusBorderColor: darken(#fff, 30%) !default;
